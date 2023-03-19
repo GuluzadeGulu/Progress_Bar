@@ -1,0 +1,16 @@
+* {box-sizing: border-box;}
+
+body {
+    background-color: #ccc;
+    text-align: center;
+}
+
+progress {
+    margin-top: 200px;
+    padding: 20px 0;
+}
+
+p{
+    display: none;
+    font-size: 50px;
+}
